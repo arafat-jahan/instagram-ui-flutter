@@ -1,8 +1,8 @@
-# 📸 Instagram UI Clone – Flutter
+# 📸 Instagram UI  – Flutter
 
 A simple and clean Instagram-like UI built with Flutter. This project builds the core interface of Instagram, including the app bar, stories section, post feed, and bottom navigation bar.
 
-![Instagram_UI_Screenshot](https://imgur.com/a/SCtqBUt)
+![Instagram_UI_Screenshot](https://imgur.com/a/SCtqBUt
 
 ---
 
